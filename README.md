@@ -35,6 +35,6 @@ Use this for:
 ## 🚀 How to Run
 
 ```bash
-python procedural.py
-python oop.py
-python encapsulation.py
+python p1.py
+python p2.py
+python p3.py
