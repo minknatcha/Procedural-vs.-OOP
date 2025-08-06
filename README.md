@@ -12,11 +12,11 @@ This repository demonstrates different programming paradigms using Python, speci
 
 ## 📁 Files
 
-| File Name         | Description |
-|-------------------|-------------|
-| `procedural.py`   | A simple example using procedural programming with functions and global lists. |
-| `oop.py`          | Refactored to use object-oriented design with classes like `Product` and `Store`. |
-| `encapsulation.py`| Enhanced version using OOP best practices with encapsulated private attributes and getter/setter methods. |
+| File Name  | Description |
+|------------|-------------|
+| `p1.py`    | A simple example using procedural programming with functions and global lists. |
+| `p2.py`    | Refactored to use object-oriented design with classes like `Product` and `Store`. |
+| `p3.py`    | Enhanced version using OOP best practices with encapsulated private attributes and getter/setter methods. |
 
 ---
 
